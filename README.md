@@ -1,6 +1,6 @@
 # notifications
 
-A new Flutter project.
+This is a flutter application to use and test firebase messaging and getting push notifications.
 
 ## Getting Started
 
